@@ -1,5 +1,9 @@
 # TIL
 
+## postgres
+
+* [.pgpass — файл паролей](postgres/psql_pgpass.md)
+
 ## nginx
 
 * [Отключение версии `nginx` в заголовках ответа](nginx/nginx_server_tokens.md)
