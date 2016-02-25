@@ -1,5 +1,9 @@
 # TIL
 
+> Today I Learned
+
+Оригинальная идея — [https://github.com/jbranchaud/til](https://github.com/jbranchaud/til)
+
 ## postgres
 
 * [.pgpass — файл паролей](postgres/psql_pgpass.md)
