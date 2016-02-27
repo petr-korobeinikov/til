@@ -18,3 +18,4 @@
 ## mac
 
 * [`brew cleanup` — освобождение места на диске](mac/brew_cleanup.md)
+* [Быстрый переход к сессии в iTerm2](mac/iterm2_open_quickly.md)
