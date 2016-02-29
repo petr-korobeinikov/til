@@ -19,6 +19,10 @@
 
 * [Неинтерактивная конфигурация `tzdata`](ubuntu/tzdata.md)
 
+## shell
+
+* [`hash -r` — перезагрузка путей к исполняемым файлам](shell/hash.md)
+
 ## mac
 
 * [`brew cleanup` — освобождение места на диске](mac/brew_cleanup.md)
