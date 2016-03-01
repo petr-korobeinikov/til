@@ -18,6 +18,7 @@
 ## ubuntu
 
 * [Неинтерактивная конфигурация `tzdata`](ubuntu/tzdata.md)
+* [Запрет/разрешение автоматического запуска сервиса](ubuntu/update_rcd.md)
 
 ## shell
 
