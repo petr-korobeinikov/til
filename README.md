@@ -6,7 +6,7 @@
 
 ## postgres
 
-* [.pgpass — файл паролей](postgres/psql_pgpass.md)
+* [`.pgpass` — файл паролей](postgres/psql_pgpass.md)
 * [`now()` и `current_timestamp` возвращают время старта транзакции](postgres/tx_current_timestamp.md)
 * [`.psqlrc` — rc-скрипт для `psql`](postgres/psql_psqlrc.md)
 
