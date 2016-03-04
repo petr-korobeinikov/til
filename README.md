@@ -27,6 +27,10 @@
 * [`help` — `man` для `builtin`](shell/help.md)
 * [`hash -r` — перезагрузка путей к исполняемым файлам](shell/hash.md)
 
+## vim
+
+* [Открытие файла под курсором](vim/open_file_under_cursor.md)
+
 ## mac
 
 * [`brew cleanup` — освобождение места на диске](mac/brew_cleanup.md)
