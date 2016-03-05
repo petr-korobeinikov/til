@@ -26,6 +26,7 @@
 
 * [`help` — `man` для `builtin`](shell/help.md)
 * [`hash -r` — перезагрузка путей к исполняемым файлам](shell/hash.md)
+* [Использование `heredoc`](shell/heredoc.md)
 
 ## vim
 
