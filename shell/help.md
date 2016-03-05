@@ -6,6 +6,6 @@
 
 Справочная информация по встроенным командам доступна с помощью команды `help`:
 
-    help alias
-    help bg
-    help fg
+    $ help alias
+    $ help bg
+    $ help fg

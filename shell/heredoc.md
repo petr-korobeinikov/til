@@ -4,7 +4,7 @@
 
 Для этого можно использовать `heredoc`, например:
 
-    cat <<EOF
+    $ cat <<EOF
     hello
     multiline
     input
